@@ -7,3 +7,7 @@ This repository contains my work from the NASSCOM-VSD Digital VLSI SoC Design co
 - `schematics/`: Xschem designs
 - `simulation/`: Ngspice waveforms
 - `reports/`: Observations and reports
+
+![Layout View](reports/synthesis.png)
+
+
